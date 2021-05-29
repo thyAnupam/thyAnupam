@@ -1,4 +1,4 @@
-- 👋 Hi, Noob here
+- 👋 Hi, SDE in making here
 
 <!---
 thyAnupam/thyAnupam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
