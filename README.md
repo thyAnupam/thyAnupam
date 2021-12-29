@@ -1,6 +1,6 @@
 - 👋 Hi, SDE in making here
 - ![snake gif]
-- ()
+- (https://github.com/thyAnupam/thyAnupam/blob/output/github-contribution-grid-snake.gif)
 - 
 
 <!---
