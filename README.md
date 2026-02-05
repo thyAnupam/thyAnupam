@@ -1,4 +1,4 @@
-- 👋 Hello Visitor, Tech Architect in making here✨
+- 👋 Hello Visitor, SW Architect in making here✨
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thyAnupam/thyAnupam/output/github-snake-dark.svg" />
